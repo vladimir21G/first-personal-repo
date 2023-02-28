@@ -1,0 +1,9 @@
+
+export MACHINE=machine1
+export WP_HOST=ngnix
+
+export WC_KEY=ck_244804c3a76727238bcf675087bec530f08dadc0
+export WC_SECRET=cs_1c5b6048f75bd58cceee8af77892d2062ad973b5
+
+export DB_USER=baharmustafa_com_vladi
+export DB_PASSWORD=cdDsxo49pPcrZ4N2

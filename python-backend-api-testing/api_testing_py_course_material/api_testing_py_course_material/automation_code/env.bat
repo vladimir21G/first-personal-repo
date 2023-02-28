@@ -1,0 +1,9 @@
+
+SET MACHINE=machine1
+SET WP_HOST=nginx
+
+SET WC_KEY=ck_244804c3a76727238bcf675087bec530f08dadc0
+SET WC_SECRET=cs_1c5b6048f75bd58cceee8af77892d2062ad973b5
+
+SET DB_USER=baharmustafa_com_vladi
+SET DB_PASSWORD=cdDsxo49pPcrZ4N2

@@ -1,0 +1,12 @@
+
+
+SET WC_KEY=ck_244804c3a76727238bcf675087bec530f08dadc0
+SET WC_SECRET=cs_1c5b6048f75bd58cceee8af77892d2062ad973b5
+
+//SET DB_USER=remote_office
+//SET DB_PASSWORD=vladievofisa123
+//SET DB_HOST=116.202.22.87
+
+SET DB_USER=remote_home
+SET DB_PASSWORD=vladiisworkingfromhome
+SET DB_HOST=95.43.61.68
